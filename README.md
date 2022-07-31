@@ -1,7 +1,7 @@
 # things3-to-of3 scripts
 Set of scripts I used to import tasks from Things 3 into Omnifocus 3.
 
-This is based on the [gist]([gist](https://gist.github.com/matellis/69954d4212b1a36c13aad3de4e75187e)) by [matellis](https://github.com/matellis/) by I found that a single automated imported didn't work, so I split the script into three separate scripts.
+This is based on the [gist](https://gist.github.com/matellis/69954d4212b1a36c13aad3de4e75187e) by [matellis](https://github.com/matellis/) by I found that a single automated imported didn't work, so I split the script into three separate scripts.
 
 In particular, I wasn't able to find a way to have the script iterate truly through all projects and tasks in the Logbook (including the Logbook only included the recent items, not the older ones you get by clicking "More items" in the Things 3 iterface). To circumvent this I needed to manually select these logbook items and have the script also consider all selected items. 
 
